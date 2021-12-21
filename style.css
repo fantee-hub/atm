@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background: url("/images/atm.jpg");
+  background: url("./images/atm.jpg");
 
   height: 100vh;
   display: grid;
